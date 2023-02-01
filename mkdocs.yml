@@ -2,7 +2,7 @@ site_name: Amit Kumar
 site_description: "Engineer by profession, Leader by choice"
 site_url: "https://amitkmr.github.io"
 copyright: "Copyright &copy; 2023 Amit Kumar"
-docs_dir: /docs/docs
+docs_dir: /docs
 extra:
   analytics:
     provider: google
