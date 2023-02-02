@@ -5,10 +5,6 @@ copyright: "Copyright &copy; 2023 Amit Kumar"
 docs_dir: docs/
 repo_name: 'amitkmr/personal-website'
 repo_url: 'https://github.com/amitkmr/personal-website'
-extra:
-  analytics:
-    provider: google
-    property: G-7S4JR3KFHK
 theme:
   name: material
   palette:
@@ -56,5 +52,3 @@ markdown_extensions:
 nav:
   - Home: about.md
   - Now: now.md
-  # - Blogs:
-  #     - blogs/high-growth-year.md
