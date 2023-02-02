@@ -1,1 +1,0 @@
-# High Growth Year

@@ -3,6 +3,8 @@ site_description: "Engineer by profession, Leader by choice"
 site_url: "https://amitkmr.github.io"
 copyright: "Copyright &copy; 2023 Amit Kumar"
 docs_dir: docs/
+plugins:
+  - blog
 theme:
   name: material
   palette:
@@ -14,3 +16,5 @@ theme:
 nav:
   - About: index.md
   - Now: now.md
+  - Blog:
+    - blog/index.md
