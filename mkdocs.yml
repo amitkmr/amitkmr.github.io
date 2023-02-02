@@ -3,6 +3,8 @@ site_description: "Engineer by profession, Leader by choice"
 site_url: "https://amitkmr.github.io"
 copyright: "Copyright &copy; 2023 Amit Kumar"
 docs_dir: docs/
+repo_name: 'amitkmr/personal-website'
+repo_url: 'https://github.com/amitkmr/personal-website'
 extra:
   analytics:
     provider: google
@@ -52,7 +54,7 @@ markdown_extensions:
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
 nav:
-  - About: about.md
+  - Home: about.md
   - Now: now.md
-  - Blogs:
-      - blogs/high-growth-year.md
+  # - Blogs:
+  #     - blogs/high-growth-year.md
