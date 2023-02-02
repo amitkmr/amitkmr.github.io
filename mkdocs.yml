@@ -6,7 +6,7 @@ repo_url: 'https://github.com/aws/copilot-cli'
 edit_uri: 'edit/mainline/site/content'
 copyright: 'Copyright &copy; 2023 Amazon'
 docs_dir: 'docs'
-site_dir: 'docs'
+# site_dir: 'docs'
 extra_css:
   - stylesheets/extra.css
 extra:
