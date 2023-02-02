@@ -12,5 +12,5 @@ theme:
     - instant
     - navigation.tabs
 nav:
-  - Home: index.md
+  - About: index.md
   - Now: now.md
