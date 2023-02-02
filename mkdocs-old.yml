@@ -1,0 +1,16 @@
+site_name: Amit Kumar
+site_description: "Engineer by profession, Leader by choice"
+site_url: "https://amitkmr.github.io"
+copyright: "Copyright &copy; 2023 Amit Kumar"
+docs_dir: docs/
+theme:
+  name: material
+  palette:
+    primary: white
+  features:
+    - tabs
+    - instant
+    - navigation.tabs
+nav:
+  - Home: about.md
+  - Now: now.md
