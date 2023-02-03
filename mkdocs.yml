@@ -7,6 +7,8 @@ docs_dir: docs/
 #   - blog
 theme:
   name: material
+  icon:
+    logo: material/book
   palette:
     primary: white
   font:
