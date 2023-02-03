@@ -9,6 +9,8 @@ theme:
   name: material
   palette:
     primary: white
+  font:
+    text: Rubik
   features:
     - tabs
     - instant
