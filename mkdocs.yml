@@ -17,6 +17,4 @@ nav:
   - About: index.md
   - Now: now.md
   - Blog:
-    - blog/index.md
-    - 2023:
-        - blog/posts/why-personal-website.md
+    - blog/posts/why-personal-website.md
