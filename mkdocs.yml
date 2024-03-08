@@ -24,3 +24,6 @@ nav:
   - Now: now.md
   - Blog:
     - blog/posts/why-personal-website.md
+  - Books:
+    - Wealth & Happiness:
+        - books/wealth_and_happiness/the_almanack_of_naval_ravikant.md
