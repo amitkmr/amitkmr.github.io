@@ -1,4 +1,4 @@
-# [The Almanack of Naval Ravikant](https://www.amazon.in/Almanack-Naval-Ravikant-Wealth-Happiness/dp/9354893899)
+# The Almanack of Naval Ravikant
 
 ### What motivated me to read this?
 
