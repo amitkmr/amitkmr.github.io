@@ -25,5 +25,7 @@ nav:
   - Blog:
     - blog/posts/why-personal-website.md
   - Books:
+    - Startup:
+        - books/startup/the_founders_dilemmas.md
     - Wealth & Happiness:
         - books/wealth_and_happiness/the_almanack_of_naval_ravikant.md
