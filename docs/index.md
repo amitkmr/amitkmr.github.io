@@ -4,7 +4,7 @@
 
 ### Hi There,
 
-I am a Programmer, Mentor and Engineering Leader, who is passionate about building tech products. I have been working in the tech industry for over 6 years, and have worked with a variety of tech stacks and programming languages.  I’m also interested in teaching software development and helping people achieve high levels of personal productivity.
+I am a Programmer, Mentor and an Engineering Leader, who is passionate about building software products. I have been working in the software industry for over 7 years, and have worked with a variety of tech stacks and programming languages.  I’m also interested in mentoring software developers and helping people achieve high levels of personal productivity.
 
 As a leader in the field, I am committed to leveraging my skills and experience to drive innovation and build truly impactful products. Whether working with a team of developers or mentoring aspiring software engineers, I strive to bring out the best in those around me and create meaningful change in the world through technology.
 
