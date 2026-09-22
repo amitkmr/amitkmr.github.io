@@ -27,5 +27,4 @@ theme:
 nav:
   - Hi There: index.md
   - Overview: overview.md
-  - Now: now.md
   - Bookshelf: bookshelf.md
