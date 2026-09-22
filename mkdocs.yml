@@ -5,6 +5,11 @@ copyright: "Copyright &copy; 2023 Amit Kumar"
 docs_dir: docs/
 # plugins:
 #   - blog
+markdown_extensions:
+  - md_in_html
+  - attr_list
+extra_css:
+  - stylesheets/extra.css
 theme:
   name: material
   icon:
@@ -23,3 +28,4 @@ nav:
   - Hi There: index.md
   - Overview: overview.md
   - Now: now.md
+  - Bookshelf: bookshelf.md

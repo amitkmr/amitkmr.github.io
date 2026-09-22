@@ -22,7 +22,7 @@ I'm the founder of [toflow.ai](https://toflow.ai), and a passionate builder of s
 
 - **Mobility (Shuttl & Koko)** — Worked at [Shuttl](https://www.linkedin.com/company/shuttl/), a commuting service for office-goers, and later as Head of Engineering at Koko, an "Uber for rickshaws."
 
-- **[Times Internet](https://www.linkedin.com/company/timesinternet/)** — Engineer, IC. Spent the first 5 years of my career mostly as a hands-on individual contributor, where I helped build Times Assistant (an AI assistant for Times Internet, India's largest digital company after Meta and Google), and later Brainbaazi, a "Who Wants to Be a Millionaire" style game for Indian audiences.
+- **[Times Internet](https://www.linkedin.com/company/timesinternet/)** — Engineer, IC. Spent the first 2 years of my career mostly as a hands-on individual contributor, where I helped build Times Assistant (an AI assistant for Times Internet, India's largest digital company after Meta and Google), and later Brainbaazi, a "Who Wants to Be a Millionaire" style game for Indian audiences.
 
 ## Elsewhere
 
