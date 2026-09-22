@@ -4,7 +4,7 @@
 
 I am currently building [R'Dash](https://rdash.io), which is a B2B managed marketplace for the construction industry. Overall goal of the product is to make the life of the stakeholders easier by providing them with the tools to manage their projects effectively. `R'Dash` simplifies project management with its user-friendly interface for managing construction projects across stages such as recce, design, BOQ,subcontracting and progress reporting.
 
-At [91squarefeet](https://www.linkedin.com/company/91sqft), I am currently working as Director of Engineering, leading the engineering efforts of the company to build a cutting-edge product in the construction domain.
+At [RDash (YC W22)](https://www.linkedin.com/company/r-dash), I am currently working as Director of Engineering, leading the engineering efforts of the company to build a cutting-edge product in the construction domain.
 
 On a personal front, I am grooming myself to develop more width in my skill set by developing a product mindset, learning about business, and also learning about the domain of construction industry.
 

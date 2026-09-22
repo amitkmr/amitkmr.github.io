@@ -20,7 +20,8 @@ theme:
     - navigation.tabs.sticky
     - navigation.sections
 nav:
-  - About: index.md
+  - Hi There: index.md
+  - Overview: overview.md
   - Now: now.md
   - Blog:
     - blog/posts/why-personal-website.md
