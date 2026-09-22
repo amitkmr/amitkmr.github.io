@@ -26,7 +26,6 @@ theme:
     - navigation.sections
 nav:
   - Hi There: index.md
-  - Overview: overview.md
   - Blog:
     - blog/index.md
     - blog/posts/why-toflow-ai.md
